@@ -1,4 +1,4 @@
-{application, uuid,
+{application, erlang_uuid,
  [
   {description, "UUID v4 (random) generation and utilities"},
   {vsn, git},
